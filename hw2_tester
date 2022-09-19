@@ -3,7 +3,7 @@
 file="$(realpath $1)"
 cd ~/.local/bin/hw2_tester
 #echo $file
-cp $file asgn2.h
+cp "$file" asgn2.h
 make
 make run
 rm asgn2.h
