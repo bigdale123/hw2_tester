@@ -116,5 +116,8 @@ fi
 # Adds capability for AppImage bianries in .local
 export PATH=~/.local/bin:$PATH
 
-#specifically add tester folder to path
+#specifically add hw2 tester folder to path
 export PATH=~/.local/bin/hw2_tester:$PATH
+
+#specifically add hw4 tester folder to path
+export PATH=~/.local/bin/hw4_tester:$PATH
