@@ -14,3 +14,6 @@ wget https://raw.githubusercontent.com/bigdale123/hw2_tester/main/bashrc --outpu
 
 # Apply bashrc changes
 source ~/.bashrc
+
+#logoff to apply changes.
+exit
