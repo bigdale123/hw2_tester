@@ -27,4 +27,4 @@ chmod +x ~/.local/bin/hw2_tester/hw2_tester
 chmod +x ~/.local/bin/hw4_tester/hw4_tester
 
 #logoff to apply changes.
-logout
+exit
