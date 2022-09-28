@@ -22,5 +22,9 @@ wget https://raw.githubusercontent.com/bigdale123/hw2_tester/main/bashrc --outpu
 # Apply bashrc changes
 source ~/.bashrc
 
+#Lastly, change file exeecute permsisions
+chmod +x ~/.local/bin/hw2_tester/hw2_tester
+chmod +x ~/.local/bin/hw4_tester/hw4_tester
+
 #logoff to apply changes.
-exit
+logout
